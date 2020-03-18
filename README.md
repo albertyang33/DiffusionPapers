@@ -1,6 +1,6 @@
 # Paper List of Information Diffusion Prediction
 
-Contributed by Hao Wang, Haoran Wang and Cheng Yang from School of Computer Science, Beijing University of Posts and Telecommunications.
+Contributed by Hao Wang, Haoran Wang and [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ&hl=en) from School of Computer Science, Beijing University of Posts and Telecommunications.
 
 ## 2019
 1. **Multi-scale Information Diffusion Prediction with Reinforced Recurrent Networks.**
