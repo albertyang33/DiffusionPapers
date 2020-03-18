@@ -55,7 +55,7 @@ IJCAI 2019.[paper](https://www.ijcai.org/proceedings/2019/0560.pdf)
 [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16364)
 14. **A Recurrent Neural Cascade-based Model for Continuous-Time Diffusion.**
 *Sylvain Lamprier.*
- PMLR 2019.
+ ICML 2019.
 [paper](http://proceedings.mlr.press/v97/lamprier19a.html)
 15. **Prediction Model for Non-topological Event Propagation in Social Networks.**
 *Zitu Liu, Rui Wang, Yong Liu.*
@@ -89,9 +89,7 @@ IJCAI 2019.[paper](https://www.ijcai.org/proceedings/2019/0560.pdf)
 *Hao Huang, Qian Yan, Ting Gan, Di Niu, Wei Lu, Yunjun Gao.*
  AAAI 2019.
 [paper](https://sites.ualberta.ca/~dniu/Homepage/Publications_files/huang-aaai-2019-2.pdf)
-23. **A Recurrent Neural Cascade-based Model for Continuous-Time Diffusion.**
-*Sylvain Lamprier.*
- ICML 2019.
+
 [paper](http://proceedings.mlr.press/v97/lamprier19a/lamprier19a.pdf)
 ## 2018
 1. **DeepDiffuse: Predicting the 'Who' and 'When' in Cascades.**
