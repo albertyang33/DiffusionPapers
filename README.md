@@ -90,7 +90,6 @@ IJCAI 2019.[paper](https://www.ijcai.org/proceedings/2019/0560.pdf)
  AAAI 2019.
 [paper](https://sites.ualberta.ca/~dniu/Homepage/Publications_files/huang-aaai-2019-2.pdf)
 
-[paper](http://proceedings.mlr.press/v97/lamprier19a/lamprier19a.pdf)
 ## 2018
 1. **DeepDiffuse: Predicting the 'Who' and 'When' in Cascades.**
 *Sathappan Muthiah, Sathappan Muthiah, Bijaya Adhikari, B. Aditya Prakash, Naren Ramakrishnan.*
