@@ -235,7 +235,7 @@ IJCAI 2019.[paper](https://www.ijcai.org/proceedings/2019/0560.pdf)
 *S. Wang, X. Hu, P. S. Yu, and Z. Li.*
  KDD 2014.
 [paper](http://faculty.cs.tamu.edu/xiahu/papers/kdd14wang.pdf)
-## before 2014
+## Before 2014
 1. **Cascading outbreak prediction in networks: a data-driven approach.**
 *P. Cui, S. Jin, L. Yu, F. Wang, W. Zhu, and S. Yang.*
  KDD 2013.
