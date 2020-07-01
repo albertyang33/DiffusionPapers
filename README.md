@@ -1,7 +1,10 @@
 # Paper List of Information Diffusion Prediction
 
 Contributed by Hao Wang, Haoran Wang and [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ&hl=en) from School of Computer Science, Beijing University of Posts and Telecommunications.
-
+## 2020
+1. **Joint Learning of User Representation with Diffusion Sequence and Network Structure.**
+*Wang, Zhitao, Chengyao Chen, and Wenjie Li.*
+TKDE 2020.[paper](https://ieeexplore.ieee.org/document/9094385)
 ## 2019
 1. **Multi-scale Information Diffusion Prediction with Reinforced Recurrent Networks.**
 *Cheng Yang, Jian Tang, Maosong Sun, Ganqu Cui, Zhiyuan Liu.*
