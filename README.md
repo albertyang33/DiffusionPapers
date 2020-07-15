@@ -5,6 +5,9 @@ Contributed by Hao Wang, Haoran Wang and [Cheng Yang](https://scholar.google.com
 1. **Joint Learning of User Representation with Diffusion Sequence and Network Structure.**
 *Wang, Zhitao, Chengyao Chen, and Wenjie Li.*
 TKDE 2020.[paper](https://ieeexplore.ieee.org/document/9094385)
+2. **HID: Hierarchical Multiscale Representation Learning for Information Diffusion.**
+*Zhou Honglu, Shuyuan Xu, and Zouhui Fu.*
+IJCAI 2020.[paper](https://www.ijcai.org/Proceedings/2020/0468.pdf)
 ## 2019
 1. **Multi-scale Information Diffusion Prediction with Reinforced Recurrent Networks.**
 *Cheng Yang, Jian Tang, Maosong Sun, Ganqu Cui, Zhiyuan Liu.*
