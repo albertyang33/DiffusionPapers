@@ -16,7 +16,7 @@ WSDM 2020.[paper](https://arxiv.org/pdf/2001.00132.pdf)
 KDD 2020.[paper](https://www.research-collection.ethz.ch/handle/20.500.11850/415267) [code](https://github.com/MathiasKraus/CascadeLSTM)
 5. **Variational Information Diffusion for Probabilistic Cascades Prediction.**
 *Fan Zhou, Xovee Xu, Kunpeng Zhang, Goce Trajcevski, Ting Zhong.*
-INFOCOM 2020.[paper](https://xovee.cn/archive/paper/INFOCOM_20.pdf)
+INFOCOM, Virtual conference, Jul 6-9, 2020, pp. 1618-1627. [[paper]](https://ieeexplore.ieee.org/document/9155349)
 6. **DyHGCN: A Dynamic Heterogeneous Graph Convolutional Network to Learn Users’ Dynamic Preferences for Information Diffusion Prediction.**
 *Chunyuan Yuan, Jiacheng Li, Wei Zhou, Yijun Lu, Xiaodan Zhang, and Songlin Hu.*
 ECMLPKDD 2020. [paper](https://arxiv.org/pdf/2006.05169.pdf)
