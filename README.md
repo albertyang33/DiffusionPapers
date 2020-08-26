@@ -32,6 +32,9 @@ arXiv 2020. [paper](https://arxiv.org/pdf/2004.12373.pdf)
 10. **A Survey of Information Cascade Analysis: Models, Predictions and Recent Advances.**
 *Fan Zhou, Xovee Xu, Goce Trajcevski, Kunpeng Zhang.*
 arXiv 2020. [paper](https://arxiv.org/pdf/2005.11041.pdf)
+11. **Can Graph Contrastive Learning Improve Cascade Prediction?**
+*Xovee Xu, Fan Zhou, Kunpeng Zhang, and Goce Trajcevski.*
+Under review. [paper&code](https://github.com/Xovee/cgc)
 ## 2019
 1. **Multi-scale Information Diffusion Prediction with Reinforced Recurrent Networks.**
 *Cheng Yang, Jian Tang, Maosong Sun, Ganqu Cui, Zhiyuan Liu.*
