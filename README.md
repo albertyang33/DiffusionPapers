@@ -1,7 +1,40 @@
 # Paper List of Information Diffusion Prediction
 
 Contributed by Hao Wang, Haoran Wang and [Cheng Yang](https://scholar.google.com/citations?user=OlLjVUcAAAAJ&hl=en) from School of Computer Science, Beijing University of Posts and Telecommunications.
-
+## 2020
+1. **Joint Learning of User Representation with Diffusion Sequence and Network Structure.**
+*Wang, Zhitao, Chengyao Chen, and Wenjie Li.*
+TKDE 2020.[paper](https://ieeexplore.ieee.org/document/9094385)
+2. **HID: Hierarchical Multiscale Representation Learning for Information Diffusion.**
+*Zhou Honglu, Shuyuan Xu, and Zouhui Fu.*
+IJCAI 2020.[paper](https://www.ijcai.org/Proceedings/2020/0468.pdf)
+3. **Inf-VAE: A Variational Autoencoder Framework to Integrate Homophily and Influence in Diffusion Prediction.**
+*Aravind Sankar, Xinyang Zhang, Adit Krishnan, Jiawei Han.*
+WSDM 2020.[paper](https://arxiv.org/pdf/2001.00132.pdf)
+4. **Cascade-LSTM: A Tree-Structured Neural Classifier for Detecting Misinformation Cascades.**
+*Francesco Ducci, Mathias Kraus, Stefan Feuerriegel.*
+KDD 2020.[paper](https://www.research-collection.ethz.ch/handle/20.500.11850/415267) [code](https://github.com/MathiasKraus/CascadeLSTM)
+5. **Variational Information Diffusion for Probabilistic Cascades Prediction.**
+*Fan Zhou, Xovee Xu, Kunpeng Zhang, Goce Trajcevski, Ting Zhong.*
+INFOCOM, Virtual conference, Jul 6-9, 2020, pp. 1618-1627. [[paper]](https://ieeexplore.ieee.org/document/9155349)
+6. **DyHGCN: A Dynamic Heterogeneous Graph Convolutional Network to Learn Users’ Dynamic Preferences for Information Diffusion Prediction.**
+*Chunyuan Yuan, Jiacheng Li, Wei Zhou, Yijun Lu, Xiaodan Zhang, and Songlin Hu.*
+ECMLPKDD 2020. [paper](https://arxiv.org/pdf/2006.05169.pdf)
+7. **A Heterogeneous Dynamical Graph Neural Networks Approach to Quantify Scientific Impact.**
+*Fan Zhou, Xovee Xu, Ce Li, Goce Trajcevski, Ting Zhong and Kunpeng Zhang.*
+arXiv 2020. [paper](https://xovee.cn/archive/paper/arXiv_20_HDGNN_Xovee.pdf) [code](https://github.com/Xovee/hdgnn)
+8. **CasFlow: Exploring Hierarchical Structures and Propagation Uncertainty for Cascade Prediction.**
+*Fan Zhou, Xovee Xu, Kunpeng Zhang, Siyuan Liu and Goce Trajcevski.*
+arXiv 2020. [paper&code](https://github.com/Xovee/casflow)
+9. **Cascade-LSTM: Predicting Information Cascades using Deep Neural Networks.**
+*Sameera Horawalavithana, John Skvoretz, Adriana Iamnitchi.*
+arXiv 2020. [paper](https://arxiv.org/pdf/2004.12373.pdf)
+10. **A Survey of Information Cascade Analysis: Models, Predictions and Recent Advances.**
+*Fan Zhou, Xovee Xu, Goce Trajcevski, Kunpeng Zhang.*
+arXiv 2020. [paper](https://arxiv.org/pdf/2005.11041.pdf)
+11. **Contrastive Cascade Graph Learning**
+*Xovee Xu, Fan Zhou, Kunpeng Zhang, and Goce Trajcevski.*
+Under review. [paper&code](https://github.com/Xovee/ccgl)
 ## 2019
 1. **Multi-scale Information Diffusion Prediction with Reinforced Recurrent Networks.**
 *Cheng Yang, Jian Tang, Maosong Sun, Ganqu Cui, Zhiyuan Liu.*
