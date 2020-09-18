@@ -122,6 +122,10 @@ IJCAI 2019.[paper](https://www.ijcai.org/proceedings/2019/0560.pdf)
 *Hao Huang, Qian Yan, Ting Gan, Di Niu, Wei Lu, Yunjun Gao.*
  AAAI 2019.
 [paper](https://sites.ualberta.ca/~dniu/Homepage/Publications_files/huang-aaai-2019-2.pdf)
+23. **Community structure enhanced cascade prediction.**
+*Chaochao Liu, Wenjun Wang, Yueheng Sun.*
+ Neurocomputing 2019.
+[paper](https://www.sciencedirect.com/science/article/pii/S0925231219307751)
 
 ## 2018
 1. **DeepDiffuse: Predicting the 'Who' and 'When' in Cascades.**
