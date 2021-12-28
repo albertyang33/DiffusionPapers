@@ -4,9 +4,9 @@ Contributed by Hao Wang, Haoran Wang and [Cheng Yang](https://scholar.google.com
 
 ## Survey
 
-1. **A Survey of Information Cascade Analysis: Models, Predictions and Recent Advances.**
+1. **A Survey of Information Cascade Analysis: Models, Predictions, and Recent Advances.**
 *Fan Zhou, Xovee Xu, Goce Trajcevski, Kunpeng Zhang.*
-ACM Computing Surveys (CSUR), vol. 54, no. 2, article 27, 36 pages, Mar 2021. [paper](https://arxiv.org/pdf/2005.11041.pdf)
+ACM Computing Surveys (CSUR), vol. 54, no. 2, article 27, 36 pages, Mar 2021 [[link](https://dl.acm.org/doi/10.1145/3433000?cid=99659687041), [arXiv](https://arxiv.org/pdf/2005.11041.pdf)]
 1. **Taxonomy and Evaluation for Microblog Popularity Prediction.**
 *Xiaofeng Gao, Zhenhao Cao, Sha Li, Bin Yao, Guihai Chen, Shaojie Tang.*
  TKDD 2019.
@@ -48,6 +48,12 @@ arXiv 2020. [paper](https://arxiv.org/pdf/2004.12373.pdf)
 1. **Contrastive Cascade Graph Learning**
 *Xovee Xu, Fan Zhou, Kunpeng Zhang, and Goce Trajcevski.*
 Under review. [paper&code](https://github.com/Xovee/ccgl)
+1. **Predicting Information Diffusion Cascades Using Graph Attention Networks**
+*Meng Wang, and Kan Li*
+International Conference on Neural Information Processing (ICONIP), 2020, pp. 104-112
+1. **Popularity prediction on social platforms with coupled graph neural networks.**
+*Qi Cao, Huawei Shen, Jinhua Gao, Bingzheng Wei, Xueqi Cheng.*
+WSDM 2020.
 
 ## 2019
 1. **Multi-scale Information Diffusion Prediction with Reinforced Recurrent Networks.**
@@ -65,10 +71,6 @@ IJCAI 2019.[paper](https://www.ijcai.org/proceedings/2019/0560.pdf)
 *Yuan Su, Xi Zhang, Senzhang Wang, Binxing Fang, Tianle Zhang, Philip S. Yu.*
  DASFAA 2019.
 [paper](https://link.springer.com/chapter/10.1007/978-3-030-18576-3_30)
-1. **Coupled Graph Neural Networks for Predicting the Popularity of Online Content.**
-*Qi Cao, Huawei Shen, Jinhua Gao, Bingzheng Wei, Xueqi Cheng.*
- CIKM 2019.
-[paper](https://arxiv.org/pdf/1906.09032.pdf)
 1. **NPP: A neural popularity prediction model for social media content.**
 *Guandan Chen, Qingchao Kong, Nan Xu, Wenji Mao.*
  Neurocomputing 2019.
