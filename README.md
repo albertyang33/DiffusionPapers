@@ -6,12 +6,20 @@ Contributed by Hao Wang, Haoran Wang and [Cheng Yang](https://scholar.google.com
 
 1. **A Survey of Information Cascade Analysis: Models, Predictions and Recent Advances.**
 *Fan Zhou, Xovee Xu, Goce Trajcevski, Kunpeng Zhang.*
-ACM Computing Surveys (CSUR), 2021, pp. 1-41. [paper](https://arxiv.org/pdf/2005.11041.pdf)
+ACM Computing Surveys (CSUR), vol. 54, no. 2, article 27, 36 pages, Mar 2021. [paper](https://arxiv.org/pdf/2005.11041.pdf)
 1. **Taxonomy and Evaluation for Microblog Popularity Prediction.**
 *Xiaofeng Gao, Zhenhao Cao, Sha Li, Bin Yao, Guihai Chen, Shaojie Tang.*
  TKDD 2019.
 [paper](https://dl.acm.org/citation.cfm?id=3301303)
 
+## 2021
+1. **Fully Exploiting Cascade Graphs for Real-time Forwarding Prediction Xiangyun**
+*Xiangyun Tang, Dongliang Liao, Weijie Huang, Liehuang Zhu, Meng Shen, and Jin Xu*. AAAI, 2021, pp.582-590. [paper](https://www.aaai.org/AAAI21Papers/AAAI-5502.TangX.pdf)
+1. **CasFlow: Exploring Hierarchical Structures and Propagation Uncertainty for Cascade Prediction.**
+*Fan Zhou, Xovee Xu, Kunpeng Zhang, Siyuan Liu and Goce Trajcevski.*
+TKDE, 14 pages, Nov 2021. [paper&code](https://github.com/Xovee/casflow)
+1. **Decoupling Representation and Regressor for Long-Tailed Information Cascade Prediction**
+*Fan Zhou, Liu Yu, Xovee Xu, and Goce Trajcevski.* SIGIR, Virtual Event, Jul 11-15, 2021, pp. 1875-1879. [paper](https://dl.acm.org/doi/10.1145/3404835.3463104?cid=99659687041)
 ## 2020
 1. **Joint Learning of User Representation with Diffusion Sequence and Network Structure.**
 *Wang, Zhitao, Chengyao Chen, and Wenjie Li.*
@@ -34,9 +42,6 @@ ECMLPKDD 2020. [paper](https://arxiv.org/pdf/2006.05169.pdf)
 1. **A Heterogeneous Dynamical Graph Neural Networks Approach to Quantify Scientific Impact.**
 *Fan Zhou, Xovee Xu, Ce Li, Goce Trajcevski, Ting Zhong and Kunpeng Zhang.*
 arXiv 2020. [paper](https://xovee.cn/archive/paper/arXiv_20_HDGNN_Xovee.pdf) [code](https://github.com/Xovee/hdgnn)
-1. **CasFlow: Exploring Hierarchical Structures and Propagation Uncertainty for Cascade Prediction.**
-*Fan Zhou, Xovee Xu, Kunpeng Zhang, Siyuan Liu and Goce Trajcevski.*
-arXiv 2020. [paper&code](https://github.com/Xovee/casflow)
 1. **Cascade-LSTM: Predicting Information Cascades using Deep Neural Networks.**
 *Sameera Horawalavithana, John Skvoretz, Adriana Iamnitchi.*
 arXiv 2020. [paper](https://arxiv.org/pdf/2004.12373.pdf)
