@@ -12,6 +12,11 @@ ACM Computing Surveys (CSUR), vol. 54, no. 2, article 27, 36 pages, Mar 2021 [[l
  TKDD 2019.
 [paper](https://dl.acm.org/citation.cfm?id=3301303)
 
+## 2022
+1. **CCGL: Contrastive Cascade Graph Learning.**
+*Xovee Xu, Fan Zhou, Kunpeng Zhang, and Siyuan Liu.*
+TKDE, 2022. [[paper](https://doi.org/10.1109/TKDE.2022.3151829), [code](https://github.com/Xovee/ccgl)]
+
 ## 2021
 1. **Fully Exploiting Cascade Graphs for Real-time Forwarding Prediction Xiangyun**
 *Xiangyun Tang, Dongliang Liao, Weijie Huang, Liehuang Zhu, Meng Shen, and Jin Xu*. AAAI, 2021, pp.582-590. [paper](https://www.aaai.org/AAAI21Papers/AAAI-5502.TangX.pdf)
@@ -45,9 +50,6 @@ arXiv 2020. [paper](https://xovee.cn/archive/paper/arXiv_20_HDGNN_Xovee.pdf) [co
 1. **Cascade-LSTM: Predicting Information Cascades using Deep Neural Networks.**
 *Sameera Horawalavithana, John Skvoretz, Adriana Iamnitchi.*
 arXiv 2020. [paper](https://arxiv.org/pdf/2004.12373.pdf)
-1. **Contrastive Cascade Graph Learning**
-*Xovee Xu, Fan Zhou, Kunpeng Zhang, and Goce Trajcevski.*
-Under review. [paper&code](https://github.com/Xovee/ccgl)
 1. **Predicting Information Diffusion Cascades Using Graph Attention Networks**
 *Meng Wang, and Kan Li*
 International Conference on Neural Information Processing (ICONIP), 2020, pp. 104-112
